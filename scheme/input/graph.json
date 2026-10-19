@@ -1,0 +1,4777 @@
+{
+    "NetworkSwitch": [
+        {
+            "attributes": {
+                "id": 1,
+                "coordinates": [
+                    50,
+                    3
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 1
+                    }
+                ],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 1
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 2,
+                "coordinates": [
+                    19,
+                    82
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 2
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 3,
+                "coordinates": [
+                    85,
+                    91
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 3
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 4,
+                "coordinates": [
+                    46,
+                    92
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 4
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 5,
+                "coordinates": [
+                    48,
+                    100
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 5
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 6,
+                "coordinates": [
+                    56,
+                    69
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 6
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 7,
+                "coordinates": [
+                    95,
+                    88
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 7
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 8,
+                "coordinates": [
+                    28,
+                    11
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 8
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 9,
+                "coordinates": [
+                    2,
+                    43
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 9
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 10,
+                "coordinates": [
+                    0,
+                    76
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 10
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 11,
+                "coordinates": [
+                    36,
+                    22
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 11
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 12,
+                "coordinates": [
+                    89,
+                    34
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 12
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 13,
+                "coordinates": [
+                    86,
+                    99
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 13
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 14,
+                "coordinates": [
+                    9,
+                    55
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 14
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 15,
+                "coordinates": [
+                    15,
+                    56
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 15
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 16,
+                "coordinates": [
+                    12,
+                    16
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 16
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 17,
+                "coordinates": [
+                    36,
+                    34
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 17
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 18,
+                "coordinates": [
+                    23,
+                    98
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 18
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 19,
+                "coordinates": [
+                    44,
+                    83
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 19
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 20,
+                "coordinates": [
+                    82,
+                    50
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 20
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 21,
+                "coordinates": [
+                    36,
+                    15
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 21
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 22,
+                "coordinates": [
+                    93,
+                    63
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 22
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 23,
+                "coordinates": [
+                    17,
+                    21
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 23
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 24,
+                "coordinates": [
+                    24,
+                    93
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 24
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 25,
+                "coordinates": [
+                    66,
+                    85
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 25
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 26,
+                "coordinates": [
+                    78,
+                    34
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 26
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 27,
+                "coordinates": [
+                    69,
+                    98
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 27
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 28,
+                "coordinates": [
+                    93,
+                    18
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 28
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 29,
+                "coordinates": [
+                    96,
+                    80
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 29
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 30,
+                "coordinates": [
+                    60,
+                    35
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 30
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 31,
+                "coordinates": [
+                    41,
+                    77
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 31
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 32,
+                "coordinates": [
+                    14,
+                    99
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 32
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 33,
+                "coordinates": [
+                    57,
+                    94
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 33
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 34,
+                "coordinates": [
+                    68,
+                    67
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 34
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 35,
+                "coordinates": [
+                    30,
+                    60
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 35
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 36,
+                "coordinates": [
+                    23,
+                    30
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 36
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 37,
+                "coordinates": [
+                    44,
+                    9
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 37
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 38,
+                "coordinates": [
+                    49,
+                    44
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 38
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 39,
+                "coordinates": [
+                    67,
+                    56
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 39
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 40,
+                "coordinates": [
+                    80,
+                    1
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 40
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 41,
+                "coordinates": [
+                    90,
+                    12
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 41
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 42,
+                "coordinates": [
+                    19,
+                    65
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 42
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 43,
+                "coordinates": [
+                    63,
+                    19
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 43
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 44,
+                "coordinates": [
+                    1,
+                    33
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 44
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 45,
+                "coordinates": [
+                    46,
+                    22
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 45
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 46,
+                "coordinates": [
+                    24,
+                    41
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 46
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 47,
+                "coordinates": [
+                    37,
+                    91
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 47
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 48,
+                "coordinates": [
+                    12,
+                    0
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 48
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 49,
+                "coordinates": [
+                    76,
+                    23
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 49
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 50,
+                "coordinates": [
+                    87,
+                    77
+                ],
+                "active": true,
+                "power_model_parameters": {
+                    "chassis_power": 60,
+                    "ports_power_consumption": {
+                        "125": 1,
+                        "12.5": 0.3
+                    }
+                }
+            },
+            "relationships": {
+                "power_model": "ConteratoNetworkPowerModel",
+                "edge_servers": [],
+                "links": [],
+                "base_station": {
+                    "class": "BaseStation",
+                    "id": 50
+                }
+            }
+        }
+    ],
+    "NetworkLink": [
+        {
+            "attributes": {
+                "id": 1,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 1
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 37
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 2,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 37
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 21
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 3,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 21
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 11
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 4,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 21
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 8
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 5,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 11
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 45
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 6,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 11
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 17
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 7,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 17
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 36
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 8,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 36
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 23
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 9,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 23
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 16
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 10,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 36
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 46
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 11,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 16
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 48
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 12,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 17
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 38
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 13,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 45
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 43
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 14,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 43
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 49
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 15,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 49
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 30
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 18,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 41
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 28
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 19,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 49
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 26
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 20,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 26
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 20
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 21,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 20
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 12
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 23,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 46
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 15
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 24,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 15
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 14
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 25,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 15
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 42
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 26,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 14
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 9
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 27,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 9
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 44
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 28,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 42
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 2
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 29,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 2
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 24
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 30,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 24
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 18
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 31,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 18
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 32
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 32,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 24
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 47
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 33,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 47
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 4
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 34,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 4
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 5
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 35,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 4
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 19
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 36,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 19
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 31
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 37,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 5
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 33
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 38,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 33
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 27
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 39,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 31
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 6
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 40,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 6
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 34
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 41,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 34
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 39
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 42,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 27
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 13
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 43,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 13
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 3
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 44,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 3
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 7
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 45,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 7
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 29
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 46,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 34
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 25
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 46,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 6
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 25
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 46,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 33
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 25
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 46,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 27
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 25
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 47,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 29
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 50
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 48,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 50
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 22
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 49,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 2
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 10
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 50,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 2
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 24
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 51,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 3
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 50
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 52,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 4
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 5
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 53,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 4
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 47
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 54,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 6
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 31
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 55,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 7
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 50
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 56,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 8
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 23
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 57,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 8
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 36
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 58,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 9
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 14
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 59,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 12
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 26
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 60,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 12
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 28
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 61,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 13
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 27
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 62,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 14
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 42
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 63,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 15
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 42
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 64,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 17
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 21
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 65,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 18
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 47
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 66,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 19
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 33
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 67,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 20
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 39
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 68,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 20
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 22
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 69,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 21
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 36
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 70,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 22
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 50
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 71,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 23
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 36
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 72,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 24
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 32
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 73,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 24
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 47
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 74,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 26
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 49
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 75,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 42
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 35
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 76,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 49
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 41
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 77,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 31
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 47
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 78,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 35
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 46
+                    }
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "id": 79,
+                "delay": 5,
+                "bandwidth": 20480,
+                "bandwidth_demand": 0,
+                "active": true
+            },
+            "relationships": {
+                "topology": {
+                    "class": "Topology",
+                    "id": 1
+                },
+                "nodes": [
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 43
+                    },
+                    {
+                        "class": "NetworkSwitch",
+                        "id": 45
+                    }
+                ]
+            }
+        }
+    ],
+    "BaseStation": [
+        {
+            "attributes": {
+                "id": 1,
+                "coordinates": [
+                    50,
+                    3
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 1
+                    },
+                    {
+                        "class": "EdgeServer",
+                        "id": 2
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 1
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 2,
+                "coordinates": [
+                    19,
+                    82
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 2
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 3,
+                "coordinates": [
+                    85,
+                    91
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 20
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 3
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 4,
+                "coordinates": [
+                    46,
+                    92
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 4
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 5,
+                "coordinates": [
+                    48,
+                    100
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 1
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 5
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 6,
+                "coordinates": [
+                    56,
+                    69
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 26
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 6
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 7,
+                "coordinates": [
+                    95,
+                    88
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+      
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 21
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 7
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 8,
+                "coordinates": [
+                    28,
+                    11
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 8
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 9,
+                "coordinates": [
+                    2,
+                    43
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 17
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 9
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 10,
+                "coordinates": [
+                    0,
+                    76
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 3
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 10
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 11,
+                "coordinates": [
+                    36,
+                    22
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 10
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 11
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 12,
+                "coordinates": [
+                    89,
+                    34
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 13
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 12
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 13,
+                "coordinates": [
+                    86,
+                    99
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 45
+                    },
+                    {
+                        "class": "User",
+                        "id": 112
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 8
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 13
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 14,
+                "coordinates": [
+                    9,
+                    55
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 14
+                    },
+                    {
+                        "class": "User",
+                        "id": 28
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 14
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 15,
+                "coordinates": [
+                    15,
+                    56
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 34
+                    },
+                    {
+                        "class": "User",
+                        "id": 54
+                    },
+                    {
+                        "class": "User",
+                        "id": 62
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 25
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 15
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 16,
+                "coordinates": [
+                    12,
+                    16
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 66
+                    },
+                    {
+                        "class": "User",
+                        "id": 75
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 16
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 17,
+                "coordinates": [
+                    36,
+                    34
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 88
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 17
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 18,
+                "coordinates": [
+                    23,
+                    98
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 12
+                    },
+                    {
+                        "class": "User",
+                        "id": 65
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 18
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 19,
+                "coordinates": [
+                    44,
+                    83
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 5
+                    },
+                    {
+                        "class": "User",
+                        "id": 8
+                    },
+                    {
+                        "class": "User",
+                        "id": 118
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 4
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 19
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 20,
+                "coordinates": [
+                    82,
+                    50
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 36
+                    },
+                    {
+                        "class": "User",
+                        "id": 60
+                    },
+                    {
+                        "class": "User",
+                        "id": 81
+                    },
+                    {
+                        "class": "User",
+                        "id": 87
+                    },
+                    {
+                        "class": "User",
+                        "id": 109
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 19
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 20
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 21,
+                "coordinates": [
+                    36,
+                    15
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 24
+                    },
+                    {
+                        "class": "User",
+                        "id": 48
+                    },
+                    {
+                        "class": "User",
+                        "id": 102
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 21
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 22,
+                "coordinates": [
+                    93,
+                    63
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 72
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 12
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 22
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 23,
+                "coordinates": [
+                    17,
+                    21
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 27
+                    },
+                    {
+                        "class": "User",
+                        "id": 95
+                    },
+                    {
+                        "class": "User",
+                        "id": 96
+                    },
+                    {
+                        "class": "User",
+                        "id": 119
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 24
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 23
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 24,
+                "coordinates": [
+                    24,
+                    93
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 67
+                    },
+                    {
+                        "class": "User",
+                        "id": 84
+                    },
+                    {
+                        "class": "User",
+                        "id": 105
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 24
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 25,
+                "coordinates": [
+                    66,
+                    85
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 10
+                    },
+                    {
+                        "class": "User",
+                        "id": 13
+                    },
+                    {
+                        "class": "User",
+                        "id": 92
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 25
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 26,
+                "coordinates": [
+                    78,
+                    34
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 83
+                    },
+                    {
+                        "class": "User",
+                        "id": 110
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 11
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 26
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 27,
+                "coordinates": [
+                    69,
+                    98
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 27
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 28,
+                "coordinates": [
+                    93,
+                    18
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 35
+                    },
+                    {
+                        "class": "User",
+                        "id": 44
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 15
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 28
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 29,
+                "coordinates": [
+                    96,
+                    80
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 91
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 18
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 29
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 30,
+                "coordinates": [
+                    60,
+                    35
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 86
+                    },
+                    {
+                        "class": "User",
+                        "id": 93
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 23
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 30
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 31,
+                "coordinates": [
+                    41,
+                    77
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 18
+                    },
+                    {
+                        "class": "User",
+                        "id": 64
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 31
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 32,
+                "coordinates": [
+                    14,
+                    99
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 1
+                    },
+                    {
+                        "class": "User",
+                        "id": 98
+                    },
+                    {
+                        "class": "User",
+                        "id": 99
+                    },
+                    {
+                        "class": "User",
+                        "id": 117
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 6
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 32
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 33,
+                "coordinates": [
+                    57,
+                    94
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 85
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 14
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 33
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 34,
+                "coordinates": [
+                    68,
+                    67
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 71
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 28
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 34
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 35,
+                "coordinates": [
+                    30,
+                    60
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 11
+                    },
+                    {
+                        "class": "User",
+                        "id": 17
+                    },
+                    {
+                        "class": "User",
+                        "id": 22
+                    },
+                    {
+                        "class": "User",
+                        "id": 32
+                    },
+                    {
+                        "class": "User",
+                        "id": 39
+                    },
+                    {
+                        "class": "User",
+                        "id": 46
+                    },
+                    {
+                        "class": "User",
+                        "id": 58
+                    },
+                    {
+                        "class": "User",
+                        "id": 100
+                    },
+                    {
+                        "class": "User",
+                        "id": 103
+                    },
+                    {
+                        "class": "User",
+                        "id": 108
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 29
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 35
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 36,
+                "coordinates": [
+                    23,
+                    30
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 40
+                    },
+                    {
+                        "class": "User",
+                        "id": 77
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 36
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 37,
+                "coordinates": [
+                    44,
+                    9
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 2
+                    },
+                    {
+                        "class": "User",
+                        "id": 16
+                    },
+                    {
+                        "class": "User",
+                        "id": 55
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 37
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 38,
+                "coordinates": [
+                    49,
+                    44
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 20
+                    },
+                    {
+                        "class": "User",
+                        "id": 97
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 22
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 38
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 39,
+                "coordinates": [
+                    67,
+                    56
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 116
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 16
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 39
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 40,
+                "coordinates": [
+                    80,
+                    1
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 41
+                    },
+                    {
+                        "class": "User",
+                        "id": 113
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 40
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 41,
+                "coordinates": [
+                    90,
+                    12
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 30
+                    },
+                    {
+                        "class": "User",
+                        "id": 80
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 30
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 41
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 42,
+                "coordinates": [
+                    19,
+                    65
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 4
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 7
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 42
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 43,
+                "coordinates": [
+                    63,
+                    19
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 49
+                    },
+                    {
+                        "class": "User",
+                        "id": 51
+                    },
+                    {
+                        "class": "User",
+                        "id": 79
+                    },
+                    {
+                        "class": "User",
+                        "id": 101
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 43
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 44,
+                "coordinates": [
+                    1,
+                    33
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 7
+                    },
+                    {
+                        "class": "User",
+                        "id": 47
+                    },
+                    {
+                        "class": "User",
+                        "id": 69
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 44
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 45,
+                "coordinates": [
+                    46,
+                    22
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 25
+                    },
+                    {
+                        "class": "User",
+                        "id": 43
+                    },
+                    {
+                        "class": "User",
+                        "id": 73
+                    },
+                    {
+                        "class": "User",
+                        "id": 94
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 45
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 46,
+                "coordinates": [
+                    24,
+                    41
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 1
+                    },
+                    {
+                        "class": "User",
+                        "id": 53
+                    },
+                    {
+                        "class": "User",
+                        "id": 76
+                    },
+                    {
+                        "class": "User",
+                        "id": 114
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 27
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 46
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 47,
+                "coordinates": [
+                    37,
+                    91
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 6
+                    },
+                    {
+                        "class": "User",
+                        "id": 19
+                    },
+                    {
+                        "class": "User",
+                        "id": 29
+                    },
+                    {
+                        "class": "User",
+                        "id": 89
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 47
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 48,
+                "coordinates": [
+                    12,
+                    0
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 78
+                    },
+                    {
+                        "class": "User",
+                        "id": 111
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 5
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 48
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 49,
+                "coordinates": [
+                    76,
+                    23
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 38
+                    },
+                    {
+                        "class": "User",
+                        "id": 42
+                    }
+                ],
+                "edge_servers": [],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 49
+                }
+            }
+        },
+        {
+            "attributes": {
+                "id": 50,
+                "coordinates": [
+                    87,
+                    77
+                ],
+                "wireless_delay": 10240
+            },
+            "relationships": {
+                "users": [
+                    {
+                        "class": "User",
+                        "id": 26
+                    },
+                    {
+                        "class": "User",
+                        "id": 31
+                    }
+                ],
+                "edge_servers": [
+                    {
+                        "class": "EdgeServer",
+                        "id": 9
+                    }
+                ],
+                "network_switch": {
+                    "class": "NetworkSwitch",
+                    "id": 50
+                }
+            }
+        }
+    ]
+}
